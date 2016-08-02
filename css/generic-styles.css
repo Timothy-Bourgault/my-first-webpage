@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: #e6b3ff;
+  color: green
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: auto
+}
+
+h1 {
+  font-family: impact;
+  font-size: 350%;
+  font-weight: bolder;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  font-style: italic;
+}
