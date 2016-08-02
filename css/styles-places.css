@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: yellow
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 50%
+}
+h1 {
+  font-family: impact;
+  font-size: 350%
+}
